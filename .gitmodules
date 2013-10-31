@@ -1,0 +1,6 @@
+[submodule "gaegit"]
+	path = gaegit
+	url = https://github.com/sloanyang/gaegit.git
+[submodule "psd2html"]
+	path = psd2html
+	url = https://github.com/sloanyang/psd2html.git
